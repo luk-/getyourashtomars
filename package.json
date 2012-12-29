@@ -1,0 +1,23 @@
+{
+  "name": "getyourashtomars.com",
+  "version": "0.0.1",
+  "description": "get your ash to mars",
+  "main": "server.js",
+  "dependencies": {
+    "http-server": "0.5.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "Luke Arduini",
+  "license": "MIT",
+  "subdomain": "getyourashtomars",
+  "domains": [
+    "www.getyourashtomars.com",
+    "getyourashtomars.com"
+  ],
+  "engines": {
+    "node": "0.8.x"
+  }
+}

@@ -1,0 +1,28 @@
+html {
+  background: #DDD url(gradient.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+  line-height: 1.5em;
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 55px;
+  text-shadow: #FAFAFA 1px 2px;
+  padding-top: 15px;
+}
+
+h2 {
+  font-family: 'Orbitron', sans-serif;
+  text-shadow: #FAFAFA 1px 2px;
+  font-size: 30px;
+}
+
+.container {
+  width: 900px;
+  text-align: center;
+  margin: auto;
+  padding-top: 140px;
+}
